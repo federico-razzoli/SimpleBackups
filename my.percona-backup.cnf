@@ -1,0 +1,10 @@
+[client]
+host=127.0.0.1
+port=5518
+user=msandbox
+password=msandbox
+
+[mysqldump]
+max-allowed-packet=64M
+
+[xtrabackup]
